@@ -13,8 +13,8 @@ The script downloads the installation file and the .msi source to your Puppet Ma
 .OUTPUTS
 You can see the .msi installer log here : C:\Users\XXX\AppData\Local\Temp\*-puppet-install.log
 
-LINK
-[Puppet Install Agents] (https://puppet.com/docs/pe/2019.8/installing_agents.html#installing_windows_agents)
+Documentation
+[Puppet Install Agents](https://puppet.com/docs/pe/2019.8/installing_agents.html#installing_windows_agents)
 
 
 .NOTES
