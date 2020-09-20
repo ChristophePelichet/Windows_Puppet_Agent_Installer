@@ -1,4 +1,4 @@
-Windows Puppet Agent PowerShell Installer V1.0                                                                                                                                                                
+#Windows Puppet Agent PowerShell Installer V1.0                                                                                                                                                                
 Simple PowerShell script for installing Puppet Agent by GPO or any other distribution system. 
 The script downloads the installation file and the .msi source to your Puppet Master server and launche the install.ps1 provided by Puppet.
 
