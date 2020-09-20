@@ -1,4 +1,4 @@
-WIndows Puppet Agent PowerShell Installer V1.0                                                                                                                                                                
+Windows Puppet Agent PowerShell Installer V1.0                                                                                                                                                                
 
 
 .SYNOPSIS
